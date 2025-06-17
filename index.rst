@@ -32,7 +32,7 @@ How to Contact QuickBooks Support
 Here are the main ways to get QuickBooks help:
 
 - **Live Chat:** Visit the official QuickBooks support site:  
-  https://quickbooks.intuit.com/learn-support
+  https://quickbooks-help-guide.readthedocs.io/en/latest/
 
 - **Phone Support:** Call 1-800-446-8848 (for U.S. users)
 
@@ -136,4 +136,4 @@ Final Thoughts
 If you're dealing with QuickBooks problems, you're not alone. Help is available through chat, phone, and online tools.
 
 **Pro Tip:** Bookmark the official support page for fast access:  
-https://quickbooks.intuit.com/learn-support
+https://quickbooks-help-guide.readthedocs.io/en/latest/
