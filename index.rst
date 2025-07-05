@@ -8,7 +8,7 @@ QuickBooks Support Guide – Fix Errors, Contact Help & More
 
 .. image:: get-helpnow.png
    :alt: QuickBooks Support Guide – Fix Errors, Contact Help & More
-   :target: https://fm.ci/?aHR0cHM6Ly9xdWlja2Jvb2tzLWhlbHAtZ3VpZGUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://sites.google.com/view/downloadquickbooks/
 
 .. raw:: html
 
